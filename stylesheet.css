@@ -1,0 +1,29 @@
+.schedule { 
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+}
+
+th {
+    padding-right: 10px;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.breakfast {
+    background-color: green;
+}
+
+.lunch {
+    background-color: yellowgreen;
+}
+
+.dinner {
+    background-color: yellow;
+}
+
+.button {
+    margin: auto;
+}
